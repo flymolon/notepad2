@@ -995,6 +995,7 @@
     <ClCompile Include="..\..\scintilla\lexers\LexLua.cxx" />
     <ClCompile Include="..\..\scintilla\lexers\LexMakefile.cxx" />
     <ClCompile Include="..\..\scintilla\lexers\LexMatlab.cxx" />
+    <ClCompile Include="..\..\scintilla\lexers\LexNmapProbe.cxx" />
     <ClCompile Include="..\..\scintilla\lexers\LexNSIS.cxx" />
     <ClCompile Include="..\..\scintilla\lexers\LexNull.cxx" />
     <ClCompile Include="..\..\scintilla\lexers\LexPascal.cxx" />
@@ -1065,6 +1066,7 @@
     <ClCompile Include="..\..\src\Edit.c" />
     <ClCompile Include="..\..\src\EditAutoC.c" />
     <ClCompile Include="..\..\src\EditEncoding.c" />
+    <ClCompile Include="..\..\src\EditLexers\stlProbes.c" />
     <ClCompile Include="..\..\src\Helpers.c" />
     <ClCompile Include="..\..\src\Notepad2.c" />
     <ClCompile Include="..\..\src\Styles.c" />
