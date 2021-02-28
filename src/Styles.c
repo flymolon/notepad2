@@ -132,6 +132,8 @@ extern EDITLEXER lexWASM;
 
 extern EDITLEXER lexYAML;
 
+extern EDITLEXER lexProbes;
+
 // This array holds all the lexers...
 static PEDITLEXER pLexArray[] = {
 	&lexGlobal,
@@ -230,6 +232,7 @@ static PEDITLEXER pLexArray[] = {
 	&lexWASM,
 
 	&lexYAML,
+	&lexProbes
 };
 
 // the two global styles at the beginning of the array not visible in

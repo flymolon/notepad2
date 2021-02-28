@@ -168,3 +168,5 @@ typedef const EDITLEXER *LPCEDITLEXER;
 //#define NP2LEX_DARKUITHEME	63098	// SCLEX_NULL		Dark Mode UI Theme
 #define NP2LEX_2NDGLOBAL	63099	// SCLEX_NULL		2nd Global Styles
 #define NP2LEX_GLOBAL		63100	// SCLEX_NULL		Global Styles
+
+#define NP2LEX_PROBES		63101	// SCLEX_PROBES		Nmap Service Probes
